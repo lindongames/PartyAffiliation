@@ -23,8 +23,6 @@ if (partyAffiliation.equals("D")){
 
     System.out.print("You get Other");
 
-
-
 }
     }
 }
